@@ -3,8 +3,8 @@
 **A multifractal AI system with real-time search, teachable responses, and open-source modularity**
 
 Version files:
-- Alexandrian i6-v2.9.5 (optimized)
-- Alexandrian i6-v2.9.6 (slower) more comprehensive response generation.
+- Alexandrian i6-v2.9.5 (optimized) Filename: server_hexpre295.py
+- Alexandrian i6-v2.9.6 (slower) more comprehensive response generation. Filename: server_hexpre296.py
 ---
 
 ## ✨ Features
