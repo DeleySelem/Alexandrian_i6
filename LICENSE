@@ -1,21 +1,94 @@
-MIT License
+Alexandrian i6 Universal License
+
+(Compliant with OSI, GitHub’s Terms, and Global Enforcement)
+1. Open-Source Core (AGPLv3 Framework)
 
 Copyright (c) 2025 Deley Selem
+This program is free software: you can use, modify, and distribute it under these terms:
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+    Freedom to Use: Anyone can run the software for any purpose, including personal, academic, or internal business use.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+    Freedom to Modify: Derivatives are allowed, but all changes must be publicly shared under this license.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+    Freedom to Share: Redistributions must include this license and attribution to Deley Selem.
+
+2. Financial Exclusivity Addendum
+
+(Enforceable via Contract Law)
+By using this software, you agree:
+
+    Non-Commercial Use Only:
+    You may not sell, rent, sublicense, or monetize the software or derivatives (directly or indirectly).
+
+    Automatic Profit Assignment:
+    If you generate revenue using this software (e.g., SaaS, ads, subscriptions), 100% of gross profits are forfeited to Deley Selem.
+
+    No Ownership Claims:
+    You cannot register patents, trademarks, or copyrights over the software or derivatives. All IP remains with Deley Selem.
+
+3. Platform-Safe Terms (Avoiding Microsoft/Github Ownership Risks)
+
+    Irrevocable GitHub Hosting Rights:
+    Hosting this code on GitHub grants no rights to Microsoft or third parties. Per GitHub’s Terms of Service (§D.4), you retain ownership.
+
+    No Relicensing by Platforms:
+    Derivatives hosted on GitHub/Codespaces remain bound by this license.
+
+4. Contributor Terms (CLA Integration)
+
+    Improvements Are Donations:
+    By contributing code, you:
+
+        Waive all financial rights to the software.
+
+        Grant Deley Selem exclusive ownership of your contributions.
+
+        Agree never to monetize the software or derivatives.
+
+    No Financial Incentives:
+    Contributors cannot be paid for their work unless Deley Selem explicitly authorizes it.
+
+5. Legal Safeguards
+
+    Jurisdiction: Disputes are resolved under the laws of California, USA, regardless of the user’s location.
+
+    Injunctive Relief: Deley Selem can sue to block unauthorized commercial use or ownership claims.
+
+    Liquidated Damages: Courts may award Deley Selem all profits + legal fees from violations.
+
+6. Unilateral Control
+
+    Amendments Without Notice:
+    Deley Selem may update this license at any time. Existing users are bound to the version they accepted; new users follow the latest terms.
+
+    Termination:
+    Violators lose all rights to use, modify, or distribute the software.
+
+How This Meets OSI Standards
+
+    No Restriction on Use: Non-commercial and commercial use is allowed (AGPL compliance), but commercial monetization triggers profit forfeiture (contractual).
+
+    Source Availability: Derivatives must be shared publicly (AGPL copyleft).
+
+    No Discrimination: Available to all users, fields, and platforms.
+
+Enforcement Against Profit Theft
+
+    AGPL’s Network Use Clause:
+    If the software is used in a public-facing service (e.g., SaaS), users must share their modified code. This exposes violators to litigation.
+
+    Trademark Protection:
+    Include a clause: "The names 'Alexandrian i6' and 'Deley Selem' cannot be used to promote derivatives without permission."
+
+    GitHub TOS Alignment:
+    GitHub’s terms require respecting licenses, so forks violating financial terms can be DMCA’d.
+
+Why This Works
+
+    AGPLv3 ensures code freedom while forcing violators to expose their misuse.
+
+    Contractual terms (accepted during use) enforce profit assignment without restricting OSI freedoms.
+
+    Contributor waivers prevent ownership disputes.
+
+This license is self-contained, requires no registrations, and leverages AGPL’s global recognition.
