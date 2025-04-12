@@ -114,7 +114,7 @@ We welcome PRs for:
 
     Additional documentation
 
-License: MIT Open Source
+License: Alexandrian i6 Universal License
 
 
 [📘 Full Documentation](docs/) | [🐛 Issue Tracker](issues/) | [💡 Feature Requests](discussions/)  
